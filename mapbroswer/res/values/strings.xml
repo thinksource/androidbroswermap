@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">mapbroswer</string>
+	<string name="defaultId">unknow requirement</string>
+    <string name="btnPlace">place search</string>
+    <string name="btnDrive">drive guide</string>
+    <string name="btnBus">transport guide</string>
+    <string name="strPlace">place:</string>
+    <string name="btnFind">search</string>
+    <string name="strFrom">from:</string>
+    <string name="strTo">end:</string>
+</resources>
